@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prakashnamdeo
-- 👀 I’m interested in software engineering .
+- 👋 Hi, I’m @Prakash Kumar Namdeo
+- 👀 I’m interested in software engineering/Web development .
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on web devlopment.
 - 📫 How to reach me https://www.linkedin.com/in/prakash-namdeo-76869b203/
